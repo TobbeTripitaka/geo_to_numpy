@@ -1,4 +1,4 @@
-# geo_to_numpy
+# Geo to numpy
 _Reading unusual and or annoying file formats to numpy_
 
 ---
